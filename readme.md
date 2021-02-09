@@ -1,6 +1,6 @@
 # Menu-Dropdown-com-CSS
 
-<img src="./img/projeto.png" alt="exemplo imagem">
+<img src="./img/projeto.PNG" alt="exemplo imagem">
 
 ## 🚀 Instalando o menu em seu projeto
 
